@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Astronomy
-//
-//  Created by Kumar, Gaurav (Agoda) on 24/04/22.
-//
-
 import UIKit
 
 @main

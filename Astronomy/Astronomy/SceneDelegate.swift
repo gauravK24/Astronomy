@@ -1,10 +1,3 @@
-//
-//  SceneDelegate.swift
-//  Astronomy
-//
-//  Created by Kumar, Gaurav (Agoda) on 24/04/22.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {

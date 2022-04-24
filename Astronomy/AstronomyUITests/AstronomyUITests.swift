@@ -1,10 +1,3 @@
-//
-//  AstronomyUITests.swift
-//  AstronomyUITests
-//
-//  Created by Kumar, Gaurav (Agoda) on 24/04/22.
-//
-
 import XCTest
 
 class AstronomyUITests: XCTestCase {
